@@ -1,0 +1,17 @@
+{
+  "name": "lnc/n-comments",
+  "description": "plugin to verify comments with nCapthca",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "techbridge",
+      "email": "info@techbridge.ca"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "LNCNearComments\\": ""
+    }
+  }
+}
